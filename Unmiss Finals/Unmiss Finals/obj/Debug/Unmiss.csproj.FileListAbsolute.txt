@@ -1,0 +1,33 @@
+C:\Users\lrnms\source\repos\Unmiss\bin\Debug\Unmiss.exe.config
+C:\Users\lrnms\source\repos\Unmiss\bin\Debug\Unmiss.exe
+C:\Users\lrnms\source\repos\Unmiss\bin\Debug\Unmiss.pdb
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.csproj.AssemblyReference.cache
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.SignUp.resources
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.Properties.Resources.resources
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.csproj.GenerateResource.cache
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.csproj.CoreCompileInputs.cache
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.exe
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.pdb
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.Login.resources
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.Main.resources
+C:\Users\lrnms\source\repos\Unmiss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lrnms\source\repos\Unmiss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lrnms\source\repos\Unmiss\obj\Debug\Unmiss.csproj.Up2Date
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\bin\Debug\Unmiss.exe.config
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\bin\Debug\Unmiss.exe
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\bin\Debug\Unmiss.pdb
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.csproj.AssemblyReference.cache
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.SignUp.resources
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.Login.resources
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.Main.resources
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.Properties.Resources.resources
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.csproj.GenerateResource.cache
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.csproj.CoreCompileInputs.cache
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.csproj.Up2Date
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.exe
+C:\Users\Belen A. Canzana\Downloads\Unmiss (2)\obj\Debug\Unmiss.pdb
+C:\Users\Admin\Downloads\Unmiss Finals\Unmiss Finals\obj\Debug\Unmiss.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Unmiss Finals\Unmiss Finals\obj\Debug\Unmiss.exe
+C:\Users\Admin\Downloads\Unmiss Finals\Unmiss Finals\obj\Debug\Unmiss.pdb
